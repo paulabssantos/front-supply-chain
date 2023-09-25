@@ -24,7 +24,6 @@
       ]
     },
     "types": [
-      "@nuxt/types",
       "@types/node"
     ]
   },
