@@ -1,0 +1,29 @@
+.blue-button {
+    padding: 5px 30px;
+    margin-left: 20px;
+    font: normal normal bold 13px/33px Helvetica;
+    color: #4E9DDD;
+    border: 1px solid #4e9ddd;
+    border-radius: 3px;
+    opacity: 1;
+}
+
+.gray-button {
+    padding: 5px 30px;
+    margin-left: 20px;
+    font: normal normal bold 13px/33px Helvetica;
+    border: 1px solid #707070;
+    color: #707070;
+    border-radius: 3px;
+    opacity: 1;
+}
+
+.blue-background-button {
+    margin-left: 20px;
+    padding: 5px 30px;
+    font: normal normal bold 13px/33px Helvetica;
+    color: #f7f7f7;
+    background: #189fe3 0% 0% no-repeat padding-box;
+    border-radius: 3px;
+    opacity: 1;
+}
